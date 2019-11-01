@@ -1,0 +1,6 @@
+E:\video\C#\C# Programming ( A 2 Z)\prog\Calc Age\Calc Age\bin\Debug\Calc Age.exe.config
+E:\video\C#\C# Programming ( A 2 Z)\prog\Calc Age\Calc Age\bin\Debug\Calc Age.exe
+E:\video\C#\C# Programming ( A 2 Z)\prog\Calc Age\Calc Age\bin\Debug\Calc Age.pdb
+E:\video\C#\C# Programming ( A 2 Z)\prog\Calc Age\Calc Age\obj\Debug\Calc Age.csprojResolveAssemblyReference.cache
+E:\video\C#\C# Programming ( A 2 Z)\prog\Calc Age\Calc Age\obj\Debug\Calc Age.exe
+E:\video\C#\C# Programming ( A 2 Z)\prog\Calc Age\Calc Age\obj\Debug\Calc Age.pdb

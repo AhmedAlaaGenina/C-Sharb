@@ -1,0 +1,6 @@
+E:\video\C#\C# Programming ( A 2 Z)\prog\To the nearest number\To the nearest number\bin\Debug\To the nearest number.exe.config
+E:\video\C#\C# Programming ( A 2 Z)\prog\To the nearest number\To the nearest number\bin\Debug\To the nearest number.exe
+E:\video\C#\C# Programming ( A 2 Z)\prog\To the nearest number\To the nearest number\bin\Debug\To the nearest number.pdb
+E:\video\C#\C# Programming ( A 2 Z)\prog\To the nearest number\To the nearest number\obj\Debug\To the nearest number.csprojResolveAssemblyReference.cache
+E:\video\C#\C# Programming ( A 2 Z)\prog\To the nearest number\To the nearest number\obj\Debug\To the nearest number.exe
+E:\video\C#\C# Programming ( A 2 Z)\prog\To the nearest number\To the nearest number\obj\Debug\To the nearest number.pdb

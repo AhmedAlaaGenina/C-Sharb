@@ -1,0 +1,5 @@
+E:\video\C#\C# Programming ( A 2 Z)\prog\A primary calculus\A primary calculus\bin\Debug\A primary calculus.exe.config
+E:\video\C#\C# Programming ( A 2 Z)\prog\A primary calculus\A primary calculus\bin\Debug\A primary calculus.exe
+E:\video\C#\C# Programming ( A 2 Z)\prog\A primary calculus\A primary calculus\bin\Debug\A primary calculus.pdb
+E:\video\C#\C# Programming ( A 2 Z)\prog\A primary calculus\A primary calculus\obj\Debug\A primary calculus.exe
+E:\video\C#\C# Programming ( A 2 Z)\prog\A primary calculus\A primary calculus\obj\Debug\A primary calculus.pdb
